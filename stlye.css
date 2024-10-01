@@ -1,0 +1,64 @@
+html {
+    background: rgb(201, 184, 152);
+}
+
+body {
+    background: white;
+    width: 750px;
+    margin: 0px auto;
+    padding: 60px 50px;
+}
+
+#explore {
+    margin: 0 auto;
+}
+
+img {
+    width: 600px;
+    margin: auto;
+    padding: 0 auto;
+}
+
+#p1 {
+    border: 2px solid #c9793b;
+    background: #c9793b;
+    width: 150px;
+    height: 40px center;
+    margin: auto;
+    text-align: center;
+    border-radius: 10px;
+    font-size: 17px;
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#ad {
+    border: 2px solid green;
+    background: green;
+    width: 150px;
+    text-align: center;
+    border-radius: 10px;
+    cursor: pointer;
+}
+
+#ap {
+    border: 2px solid grey;
+    background: grey;
+    width: 150px;
+    text-align: center;
+    border-radius: 10px;
+    cursor: pointer;
+}
+
+p, li {
+    font-family: "Open Sans", sans-serif;
+    font-size: 18px
+}
+
+h1 {
+    font-family: "Proza Libre", sans-serif;
+}
